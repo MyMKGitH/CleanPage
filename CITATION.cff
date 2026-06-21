@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CleanPage"
+authors:
+  - given-names: "MK"
+date-released: 2026-06-21
+url: "https://github.com/MyMKGitH/CleanPage.git"
+license: MIT
